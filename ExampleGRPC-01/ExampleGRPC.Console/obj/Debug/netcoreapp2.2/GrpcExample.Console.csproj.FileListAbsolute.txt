@@ -1,0 +1,14 @@
+D:\Labs\GrpcExample\GrpcExample.Console\obj\Debug\netcoreapp2.2\GrpcExample.Console.csprojAssemblyReference.cache
+D:\Labs\GrpcExample\GrpcExample.Console\obj\Debug\netcoreapp2.2\GrpcExample.Console.csproj.CoreCompileInputs.cache
+D:\Labs\GrpcExample\GrpcExample.Console\obj\Debug\netcoreapp2.2\GrpcExample.Console.AssemblyInfoInputs.cache
+D:\Labs\GrpcExample\GrpcExample.Console\obj\Debug\netcoreapp2.2\GrpcExample.Console.AssemblyInfo.cs
+D:\Labs\GrpcExample\GrpcExample.Console\bin\Debug\netcoreapp2.2\GrpcExample.Console.deps.json
+D:\Labs\GrpcExample\GrpcExample.Console\bin\Debug\netcoreapp2.2\GrpcExample.Console.runtimeconfig.json
+D:\Labs\GrpcExample\GrpcExample.Console\bin\Debug\netcoreapp2.2\GrpcExample.Console.runtimeconfig.dev.json
+D:\Labs\GrpcExample\GrpcExample.Console\bin\Debug\netcoreapp2.2\GrpcExample.Console.dll
+D:\Labs\GrpcExample\GrpcExample.Console\bin\Debug\netcoreapp2.2\GrpcExample.Console.pdb
+D:\Labs\GrpcExample\GrpcExample.Console\bin\Debug\netcoreapp2.2\GrpcExample.Proto.dll
+D:\Labs\GrpcExample\GrpcExample.Console\bin\Debug\netcoreapp2.2\GrpcExample.Proto.pdb
+D:\Labs\GrpcExample\GrpcExample.Console\obj\Debug\netcoreapp2.2\GrpcExample.Console.csproj.CopyComplete
+D:\Labs\GrpcExample\GrpcExample.Console\obj\Debug\netcoreapp2.2\GrpcExample.Console.dll
+D:\Labs\GrpcExample\GrpcExample.Console\obj\Debug\netcoreapp2.2\GrpcExample.Console.pdb

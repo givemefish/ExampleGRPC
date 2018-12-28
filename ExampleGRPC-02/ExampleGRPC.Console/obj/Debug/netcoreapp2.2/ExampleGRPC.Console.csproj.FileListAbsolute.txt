@@ -1,0 +1,14 @@
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\bin\Debug\netcoreapp2.2\ExampleGRPC.Console.deps.json
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\bin\Debug\netcoreapp2.2\ExampleGRPC.Console.runtimeconfig.json
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\bin\Debug\netcoreapp2.2\ExampleGRPC.Console.runtimeconfig.dev.json
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\bin\Debug\netcoreapp2.2\ExampleGRPC.Console.dll
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\bin\Debug\netcoreapp2.2\ExampleGRPC.Console.pdb
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\bin\Debug\netcoreapp2.2\ExampleGRPC.Proto.dll
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\bin\Debug\netcoreapp2.2\ExampleGRPC.Proto.pdb
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\obj\Debug\netcoreapp2.2\ExampleGRPC.Console.csprojAssemblyReference.cache
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\obj\Debug\netcoreapp2.2\ExampleGRPC.Console.csproj.CoreCompileInputs.cache
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\obj\Debug\netcoreapp2.2\ExampleGRPC.Console.AssemblyInfoInputs.cache
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\obj\Debug\netcoreapp2.2\ExampleGRPC.Console.AssemblyInfo.cs
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\obj\Debug\netcoreapp2.2\ExampleGRPC.Console.csproj.CopyComplete
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\obj\Debug\netcoreapp2.2\ExampleGRPC.Console.dll
+D:\Labs\DotNetCore\ExampleGRPC-02\ExampleGRPC.Console\obj\Debug\netcoreapp2.2\ExampleGRPC.Console.pdb

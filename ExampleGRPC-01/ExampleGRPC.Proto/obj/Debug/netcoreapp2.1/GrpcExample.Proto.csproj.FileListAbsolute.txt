@@ -1,0 +1,8 @@
+D:\Labs\GrpcExample\GrpcExample.Proto\bin\Debug\netcoreapp2.1\GrpcExample.Proto.deps.json
+D:\Labs\GrpcExample\GrpcExample.Proto\bin\Debug\netcoreapp2.1\GrpcExample.Proto.dll
+D:\Labs\GrpcExample\GrpcExample.Proto\bin\Debug\netcoreapp2.1\GrpcExample.Proto.pdb
+D:\Labs\GrpcExample\GrpcExample.Proto\obj\Debug\netcoreapp2.1\GrpcExample.Proto.csproj.CoreCompileInputs.cache
+D:\Labs\GrpcExample\GrpcExample.Proto\obj\Debug\netcoreapp2.1\GrpcExample.Proto.AssemblyInfoInputs.cache
+D:\Labs\GrpcExample\GrpcExample.Proto\obj\Debug\netcoreapp2.1\GrpcExample.Proto.AssemblyInfo.cs
+D:\Labs\GrpcExample\GrpcExample.Proto\obj\Debug\netcoreapp2.1\GrpcExample.Proto.dll
+D:\Labs\GrpcExample\GrpcExample.Proto\obj\Debug\netcoreapp2.1\GrpcExample.Proto.pdb

@@ -1,0 +1,8 @@
+D:\Labs\DotNetCore\ExampleGRPC-04\ExampleGRPC\bin\Debug\netcoreapp2.2\ExampleGRPC.deps.json
+D:\Labs\DotNetCore\ExampleGRPC-04\ExampleGRPC\bin\Debug\netcoreapp2.2\ExampleGRPC.dll
+D:\Labs\DotNetCore\ExampleGRPC-04\ExampleGRPC\obj\Debug\netcoreapp2.2\ExampleGRPC.csproj.CoreCompileInputs.cache
+D:\Labs\DotNetCore\ExampleGRPC-04\ExampleGRPC\obj\Debug\netcoreapp2.2\ExampleGRPC.AssemblyInfoInputs.cache
+D:\Labs\DotNetCore\ExampleGRPC-04\ExampleGRPC\obj\Debug\netcoreapp2.2\ExampleGRPC.AssemblyInfo.cs
+D:\Labs\DotNetCore\ExampleGRPC-04\ExampleGRPC\bin\Debug\netcoreapp2.2\ExampleGRPC.pdb
+D:\Labs\DotNetCore\ExampleGRPC-04\ExampleGRPC\obj\Debug\netcoreapp2.2\ExampleGRPC.dll
+D:\Labs\DotNetCore\ExampleGRPC-04\ExampleGRPC\obj\Debug\netcoreapp2.2\ExampleGRPC.pdb

@@ -1,0 +1,254 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "628f661a9642320b94e326c58d94b04fd670b1fe"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ExampleGRPC.Proto/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.6.1",
+          "Grpc": "1.17.1",
+          "Grpc.Tools": "1.17.1"
+        },
+        "runtime": {
+          "ExampleGRPC.Proto.dll": {}
+        }
+      },
+      "Google.Protobuf/3.6.1": {
+        "runtime": {
+          "lib/netstandard1.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.6.1.0",
+            "fileVersion": "3.6.1.0"
+          }
+        }
+      },
+      "Grpc/1.17.1": {
+        "dependencies": {
+          "Grpc.Core": "1.17.1"
+        }
+      },
+      "Grpc.Core/1.17.1": {
+        "dependencies": {
+          "System.Interactive.Async": "3.1.1",
+          "System.Runtime.Loader": "4.0.0",
+          "System.Threading.Thread": "4.0.0",
+          "System.Threading.ThreadPool": "4.0.10"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Grpc.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.17.1.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/native/libgrpc_csharp_ext.x64.so": {
+            "rid": "linux",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux/native/libgrpc_csharp_ext.x86.so": {
+            "rid": "linux",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/libgrpc_csharp_ext.x64.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/libgrpc_csharp_ext.x86.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/native/grpc_csharp_ext.x64.dll": {
+            "rid": "win",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/native/grpc_csharp_ext.x86.dll": {
+            "rid": "win",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Grpc.Tools/1.17.1": {},
+      "System.Interactive.Async/3.1.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Interactive.Async.dll": {
+            "assemblyVersion": "3.0.3000.0",
+            "fileVersion": "3.1.1.0"
+          }
+        }
+      },
+      "System.IO/4.1.0": {
+        "dependencies": {
+          "System.Runtime": "4.1.0",
+          "System.Text.Encoding": "4.0.11",
+          "System.Threading.Tasks": "4.0.11"
+        }
+      },
+      "System.Reflection/4.1.0": {
+        "dependencies": {
+          "System.IO": "4.1.0",
+          "System.Reflection.Primitives": "4.0.1",
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Reflection.Primitives/4.0.1": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Runtime/4.1.0": {},
+      "System.Runtime.Handles/4.0.1": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Runtime.Loader/4.0.0": {
+        "dependencies": {
+          "System.IO": "4.1.0",
+          "System.Reflection": "4.1.0",
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Text.Encoding/4.0.11": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Threading.Tasks/4.0.11": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Threading.Thread/4.0.0": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Threading.ThreadPool/4.0.10": {
+        "dependencies": {
+          "System.Runtime": "4.1.0",
+          "System.Runtime.Handles": "4.0.1"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExampleGRPC.Proto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D/h9IZl76jjfM5VlPzG235Zdys9RKXNLYbRGm2fa6Y2UshTqAvYBPIydNOvNTEa24DER/m/zvelHlLO9n1GtNQ==",
+      "path": "google.protobuf/3.6.1",
+      "hashPath": "google.protobuf.3.6.1.nupkg.sha512"
+    },
+    "Grpc/1.17.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I/t4d2/HQs5Vp4W60r6BKIRam1qBq3fq+dghT5mESRVGd1XbHmA8pnyjZwjKggQrmDx96Z8Y8qT5oFWtlmc+vw==",
+      "path": "grpc/1.17.1",
+      "hashPath": "grpc.1.17.1.nupkg.sha512"
+    },
+    "Grpc.Core/1.17.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hs+DynisQJ6vPk2q3XTgwJltx3vfhu8/f1u4qfUjOwQpw8my3uAH1V2XJciDloi728F4upMtNcf36ia4XIZqWw==",
+      "path": "grpc.core/1.17.1",
+      "hashPath": "grpc.core.1.17.1.nupkg.sha512"
+    },
+    "Grpc.Tools/1.17.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RJIL31Ajbwru+W/oa4KtSdRN/HZ2OtauXQpcUStyK+Z+PtL+Xd+Ttsr9hkkGMGZKX8rIH/hWmXW0xZvGyqME2Q==",
+      "path": "grpc.tools/1.17.1",
+      "hashPath": "grpc.tools.1.17.1.nupkg.sha512"
+    },
+    "System.Interactive.Async/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x9y2omkjEudKbIVuhUzeWw7ZlouEzpk4W98woCEq1lq9gJxERBKRKDTHF5JPEws9E0f4/Uei/2vLxEy1IrfmMg==",
+      "path": "system.interactive.async/3.1.1",
+      "hashPath": "system.interactive.async.3.1.1.nupkg.sha512"
+    },
+    "System.IO/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d/o6bAHXEPWgdfYms12lh/vWxupJlLaxA3Y+tPcl32jVzpNsmdV58uWDgW5Al6MBzjhSW+ztQi1/ptR3lqe6Yw==",
+      "path": "system.io/4.1.0",
+      "hashPath": "system.io.4.1.0.nupkg.sha512"
+    },
+    "System.Reflection/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C3DPl8rUAxGgfDZSiFruIOSfpB2HxOHdjxdBP9CTAc/4LiXsYTXhIfhp+g3pIieto0du010xwLR3U+OVfizf/Q==",
+      "path": "system.reflection/4.1.0",
+      "hashPath": "system.reflection.4.1.0.nupkg.sha512"
+    },
+    "System.Reflection.Primitives/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3ooVSkFGjmS3a4FckDK1atZa3lN5XYE3tsHLiSB+giPOGK46jDva175XajxAXN6DL+oOX+cm4i1g6pkMFxRVcg==",
+      "path": "system.reflection.primitives/4.0.1",
+      "hashPath": "system.reflection.primitives.4.0.1.nupkg.sha512"
+    },
+    "System.Runtime/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QDvlYYf4B8ByIEdt0QcGg1xWvdawmEAOTAvdvc9zkakMGQpksGhx+CS6XLTcoos0Mbl8sLw5lc8D/ifQIK9TFg==",
+      "path": "system.runtime/4.1.0",
+      "hashPath": "system.runtime.4.1.0.nupkg.sha512"
+    },
+    "System.Runtime.Handles/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Uql/37pVGXhgg7eJNNzfR+dFk962MBeU97C8OLyf3N93NvPuF/DPgT+I+KuKZ/+Vag7c+R7ef26h7T3GUg5x6A==",
+      "path": "system.runtime.handles/4.0.1",
+      "hashPath": "system.runtime.handles.4.0.1.nupkg.sha512"
+    },
+    "System.Runtime.Loader/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4UN78GOVU/mbDFcXkEWtetJT/sJ0yic2gGk1HSlSpWI0TDf421xnrZTDZnwNBapk1GQeYN7U1lTj/aQB1by6ow==",
+      "path": "system.runtime.loader/4.0.0",
+      "hashPath": "system.runtime.loader.4.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding/4.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9lZT45DpnHVL3YAR9Ax9NhJhCC6bTKSr5+0p6bk81OfY8mQicIonHL7TFDjps+JiqOB6eJ5dkqbszhVWApOlOg==",
+      "path": "system.text.encoding/4.0.11",
+      "hashPath": "system.text.encoding.4.0.11.nupkg.sha512"
+    },
+    "System.Threading.Tasks/4.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gkyeu09I4/FUZawUGU8hDwu4QBpgsqJzbIKIB6bdYw9TdZ/Zdh9gmHdu+7w/5UTNWOW1p7ImnGyprT8Se8Kxzw==",
+      "path": "system.threading.tasks/4.0.11",
+      "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
+    },
+    "System.Threading.Thread/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r6Ai46YRAexby87CsMYC3TarjT9edkXWkVTp66bS525pmbMQ768ObEJ4kZVYFpyRmnthPqrwMAhA6dHxxLXUpA==",
+      "path": "system.threading.thread/4.0.0",
+      "hashPath": "system.threading.thread.4.0.0.nupkg.sha512"
+    },
+    "System.Threading.ThreadPool/4.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RAm/NoW5wYrlxfEyZs+q4s2tWvShDok6Rr6IYwoEcxbEQ+zP965BMgI1E1bPyX8FJ3Q9TITrZHtGSh7FZ4cIlQ==",
+      "path": "system.threading.threadpool/4.0.10",
+      "hashPath": "system.threading.threadpool.4.0.10.nupkg.sha512"
+    }
+  }
+}

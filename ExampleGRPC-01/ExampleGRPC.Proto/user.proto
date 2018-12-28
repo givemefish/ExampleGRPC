@@ -1,0 +1,7 @@
+﻿syntax = "proto3"; 
+package ExampleGRPC.Proto;
+
+message User {	
+	string first_name = 1;
+	string last_name = 2;
+}

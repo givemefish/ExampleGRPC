@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp2.2/Login.cs \
+obj\Debug\netcoreapp2.2/LoginGrpc.cs: login.proto
